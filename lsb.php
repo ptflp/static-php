@@ -29,4 +29,4 @@ class UserTwo extends ModelTwo {
 }
 
 echo '<br>';
-echo 'UserTwo::getTable()='.UserTwo::getTable(); // 'table' gets UserTwo static method. Late static binding
+echo 'UserTwo::getTable()='.UserTwo::getTable(); // 'users' gets UserTwo static method. Late static binding
